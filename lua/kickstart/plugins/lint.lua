@@ -18,7 +18,7 @@ return {
       -- which will cause errors unless these tools are available:
       -- {
       --   clojure = { "clj-kondo" },
-      --   dockerfile = { "hadolint" },
+      -- dockerfile = { "hadolint" },
       --   inko = { "inko" },
       --   janet = { "janet" },
       --   json = { "jsonlint" },
